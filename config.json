@@ -1,0 +1,20 @@
+{
+    "title": "QuickQuiz",
+    "groups": [
+        {"name": "Group 1"},
+        {"name": "Group 2"},
+        {"name": "Group 3"}
+    ],
+    "questions": [
+        {
+            "sentence": "Is 5x5 = 25?",
+            "options": ["Yes", "No"],
+            "answer": "Yes"
+        },
+        {
+            "sentence": "Is 9x9 = 72?",
+            "options": ["No", "Probably", "Yes"],
+            "answer": "No"
+        }
+    ]
+}
